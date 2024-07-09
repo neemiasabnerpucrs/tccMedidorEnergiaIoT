@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "esp_app_trace.h": "c",
+        "app_mqtt.h": "c",
+        "defines.h": "c",
+        "httpd_basic_auth.h": "c",
+        "app_webserver.h": "c",
+        "pins.h": "c",
+        "esp_system.h": "c",
+        "memory_med.h": "c",
+        "memory_flash.h": "c",
+        "drivers_rtc.h": "c",
+        "app_atuador.h": "c",
+        "app_led.h": "c"
+    }
+}
